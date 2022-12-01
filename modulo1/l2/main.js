@@ -1,5 +1,5 @@
 let saludo = "Hola";
 if (saludo=="Hola") 
-   console.log "ha saludado";
+   console.log ("ha saludado");
 else
-   console.log "no ha saludado";
+   console.log ("no ha saludado");
