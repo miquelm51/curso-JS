@@ -1,4 +1,4 @@
-let saludo = "Hola";
+let saludo = "Hola no";
 if (saludo=="Hola") 
    console.log ("ha saludado");
 else
